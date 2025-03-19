@@ -48,7 +48,8 @@ Pic2Text is an AI-powered image captioning system that converts images into mean
 
 ## Example Output
 **Input/Output Image:**
-![Uploading Screenshot 2025-03-19 171918.png…]()
+![Screenshot 2025-03-19 171918](https://github.com/user-attachments/assets/70e1f301-b6f5-4e7b-bafe-7710fcc3c4d4)
+
 
 
 **Generated Caption:**
